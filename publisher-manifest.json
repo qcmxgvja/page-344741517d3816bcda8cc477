@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1de896f36f3947d11d6f87e6",
+  "owner": "qcmxgvja",
+  "repo": "page-344741517d3816bcda8cc477",
+  "title": "R",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "344741517d3816bcda8cc477",
+      "a": "R",
+      "b": "2027官方最新地址导航",
+      "entity": "R",
+      "brand": "R",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "47062748410a71f8cbff98efee590101f7cd9d35ed57924605e2d7a09fca44e3",
+      "content": {
+        "primary_entity": "R",
+        "keyword1": "R",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，Windows、macOS、Android、iOS 各有适配版本，路由器与浏览器扩展可按需补充。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，下载对应客户端后导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开说明。基础版适合三台设备以内、每月百 GB 级使用；旗舰版面向多设备与流媒体、游戏加速需求；团队版提供千 GB 流量与二十台设备支持。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，按实际使用场景做选择。",
+          "AI_FEATURES_TITLE": "套餐与设备搭配要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合轻度浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线与全节点流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，支持企业定制路由与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "按流量选档位",
+          "AI_FEATURE_TITLE_2": "按设备数选版本",
+          "AI_FEATURE_TITLE_3": "按周期算成本",
+          "AI_GUIDE_INTRO": "从选服务到导入订阅，三步完成客户端配置。",
+          "AI_GUIDE_TITLE": "订阅配置三步走",
+          "AI_HERO_INTRO": "R 品牌海外加速器提供基础版、旗舰版与团队版三档套餐，覆盖不同设备数量与流量需求，可用于流媒体访问、游戏加速与日常跨区域连接。",
+          "AI_HERO_SUBTITLE": "三档套餐适配多设备",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，年付 ¥150",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，年付 ¥350",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，年付 ¥850",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量、设备数与节点权益上逐级提升，可按使用人数和月均流量选择。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，选定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的客户端类型与同时在线设备上限，确认与手头设备匹配。",
+          "AI_STEP_TEXT_3": "按对应客户端的配置文档导入订阅信息，完成后即可在设备上使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "R 三档套餐可选",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "R 海外加速器有哪些套餐可选？",
+          "AI_FAQ_ANSWER_1": "提供基础版、旗舰版和团队版三档。基础版 ¥15/月含 100GB 流量与 3 台设备，旗舰版 ¥35/月含 300GB 与 5 台设备，团队版 ¥85/月含 1000GB 与 20 台设备。",
+          "AI_FAQ_QUESTION_2": "按年付会比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。相比按月累计支付，年付方案折算后每月成本更低。",
+          "AI_FAQ_QUESTION_3": "一台订阅可以在几台设备上使用？",
+          "AI_FAQ_ANSWER_3": "取决于所选套餐。基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出数量需升级套餐或调整使用设备。",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版的线路有什么不同？",
+          "AI_FAQ_ANSWER_4": "基础版使用普通线路节点池，旗舰版提供全节点原生流媒体解锁并针对游戏场景进行 IPLC 专线优化，同时还包含 7x24 优先工单支持。",
+          "AI_FAQ_QUESTION_5": "订阅如何配置到客户端？",
+          "AI_FAQ_ANSWER_5": "先按设备类型选择对应客户端，再参考该客户端的配置文档导入订阅信息。不同系统的操作步骤略有差异，建议按文档逐步完成。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nmudl.com",
+    "host": "nmudl.com"
+  },
+  "file_hashes": {
+    "index.html": "6f6da7988e1f3cd51ca8c7ae5f7d78d0473cdbd0d435001e4b6f6b53f08c7448",
+    "sitemap.xml": "13f5e1ffbb6d36f41ae80d77e1cc76b25e0e84718c7abb5445fa7443ffb03cd1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d21b8a064fad3a723a9eb41856b21bf66ae7754a33172b0033181e8d40e9a6fc",
+    "robots.txt": "00d2571f0e5fa5a0ce5eeb539dbd95b3cd2d8b74a32d88fafa1f656f89c7fdd2",
+    "9bd1a6e75b7aa9ca71d21107c268b81b.txt": "bbd8128504f52550218117be59a1ee75a5a3793b791aa5f3e6146278aab35f16"
+  },
+  "revision": "018b81ddfed01bbd618cb10c4a65b04dae09102bdd2ff188d15514a447524bb5"
+}
